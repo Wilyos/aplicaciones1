@@ -1,0 +1,22 @@
+1. Que diferencia hay entre un igual ( = ) y un doble ( == )
+
+r/ el (=) es para asignar un valor o un dato a una variable, mientras que el (==) es un operador relacional para decir que una variable es igual a un dato
+
+2. Cuales son los tipos de datos básico de java
+
+r/ entero: números completos y sus negativos, de tipo int.
+variantes de enteros: tipos byte, short y long.
+reales: números decimales, tipos float, double.
+caracteres: letras, digitos, simbolos y signos de puntuación, tipo String.
+
+3. Quién es la empresa que actualmente se encarga de mantener el desarrollo de 
+java
+
+r/ oracle
+
+4. En qué otros campos se puede utilizar java para crear software
+
+	como es un lenguaje orientado a objetos tienemuchoscampos en los que puede funcionar,
+	tanto como para crear aplicativos de contabilidad, recursos humanos, como apra aplicaciones
+	para android
+
